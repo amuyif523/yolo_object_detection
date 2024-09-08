@@ -1,0 +1,10 @@
+# Large model files
+yolo_model/yolov3.weights
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment (if you use one)
+venv/
+.env
